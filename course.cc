@@ -1,4 +1,4 @@
-@file
+file
 /*!
 	\skipline 5
 	\include README.md
