@@ -1,7 +1,7 @@
-@file
 /*!
+	@file
 	\skipline 5
-	\include README.md
+	\dontinclude README.md
 */
 /***********************************************************************8
 	This class stores the three essential features of a completed 

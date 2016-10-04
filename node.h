@@ -1,7 +1,7 @@
-@file
 /*!
+	@file
 	\skipline 5
-	\include README.md
+	\dontinclude README.md
 */
 /*************************************************************************
       This file is borrowed heavily from Main/Savitch "Data Structures and

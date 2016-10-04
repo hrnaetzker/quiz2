@@ -19,7 +19,7 @@ clean:
 	-rm -f *.o 
 
 archive: 
-	tar cvf ../MyTar.tar *.cc
+	tar cvf MyTar.tar *.cc
 	
 myexe: build
 

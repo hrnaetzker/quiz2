@@ -1,7 +1,7 @@
-file
 /*!
+	@file
 	\skipline 5
-	\include README.md
+	\dontinclude README.md
 */
 /******************************************************
 	This is the main for Project 3, which asks you to 

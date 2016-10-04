@@ -1,7 +1,7 @@
-@file
 /*!
+	@file
 	\skipline 5
-	\include README.md
+	\dontinclude README.md
 */
 /*********************************************************************
 	This is a class to introduce you to the syntax of working with 
