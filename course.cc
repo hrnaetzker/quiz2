@@ -1,3 +1,8 @@
+@file
+/*!
+	\skipline 5
+	\include README.md
+*/
 /***********************************************************************
 	The implementation file for course.h, which describes a college
 	course.

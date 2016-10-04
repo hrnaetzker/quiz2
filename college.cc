@@ -1,3 +1,8 @@
+@file
+/*!
+	\skipline 5
+	\include README.md
+*/
 //********************
 //Matthew Aberegg
 //Project 3
@@ -70,6 +75,8 @@ College& College::operator =(const College& other){
 }
 
 void College::add(course& c){
+	//adds a course object to the college array
+	//By sorting it in a certain order
 	node * previous;
 	node * cursor;
 	node * newnode;
@@ -108,6 +115,8 @@ void College::add(course& c){
 }
 
 void College::remove(std::string coursename){
+	//removes a course object from the college array
+	//by searching for the course name
 	node * previous;	
 	node * cursor;
 	if(coursename == head->data().get_course_number()){
@@ -130,6 +139,7 @@ void College::remove(std::string coursename){
 }
 
 void College::display(std::ostream& outs){
+	//displays all of the courses currently in the college array
 	node * ptr;
 	ptr = head;
 	while(ptr != NULL){

@@ -1,3 +1,8 @@
+@file
+/*!
+	\skipline 5
+	\include README.md
+*/
 /******************************************************
 	This is the main for Project 3, which asks you to 
     build a container that holds a list of college courses.

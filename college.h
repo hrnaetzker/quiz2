@@ -1,3 +1,8 @@
+@file
+/*!
+	\skipline 5
+	\include README.md
+*/
 //********************
 //Matthew Aberegg
 //Project 3
